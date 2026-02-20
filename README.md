@@ -3,7 +3,7 @@
 ## 環境構築
 
 **Dockerビルド**
-1. 'git clone git@github.com:'
+1. 'git clone git@github.com:nasunonibitashi/mogitate.git'
 2. 'docker-compose up -d --build'
 
 **Laravel環境構築**
