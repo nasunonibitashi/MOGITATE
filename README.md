@@ -22,3 +22,4 @@
   
 **ER図**
 ![alt](erd.png)
+<img width="791" height="226" alt="index" src="https://github.com/user-attachments/assets/161a4a1c-6d73-4c88-bd8e-b5ddb8fd44d4" />
